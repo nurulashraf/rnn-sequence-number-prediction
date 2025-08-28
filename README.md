@@ -1,1 +1,1 @@
-# rnn-sequence-number-prediction
+# Predicting Sequence Number using Recurrent Neural Network (RNN)
